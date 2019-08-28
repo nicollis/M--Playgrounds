@@ -12,3 +12,7 @@ Sci-kit Learn Regression Model exploring housing prices
 
 Reviewing Classification in Sci-kit learn and different options and trade offs
 
+## TensorFlow JS Image Classifier
+
+Following alont with TensorFlow JS tutorial just to see how TensorFlow works in JS
+
